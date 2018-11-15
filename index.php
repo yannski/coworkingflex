@@ -1,1 +1,1 @@
-<? echo "Bienvenue au corworking flex !" ?>
+<? echo "Bienvenue au coworking flex !" ?>
